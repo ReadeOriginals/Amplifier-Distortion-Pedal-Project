@@ -1,1 +1,1 @@
-# Amplifier-Distortion-Pedal-Project
+# Amplifier & Distortion Pedal Project
